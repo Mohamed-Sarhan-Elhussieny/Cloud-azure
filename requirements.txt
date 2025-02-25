@@ -1,5 +1,9 @@
 fastapi
 uvicorn
-pandas
 speechrecognition
 azure-cognitiveservices-speech
+pandas
+arabic-reshaper
+python-bidi
+pyttsx3
+openpyxl
